@@ -1,0 +1,26 @@
+<pokemons>
+	<pokemon name= "Pikachu">
+		<hp>35</hp>
+		<attack>55</attack>
+		<defense>40</defense>
+		<speed>90</speed>
+		<special attack>50</special attack>
+		<special defense>50</special defense>
+	</pokemon>
+	<name= "Psyduck">
+		<hp>50</hp>
+		<attack>52</attack>
+		<defense>48</defense>
+		<speed>55</speed>
+		<special attack>65</special attack>
+		<special defense>50</special defense>
+	</pokemon>
+	<pokemon name= "Jigglypuff">
+		<hp>115</hp>
+		<attack>45</attack>
+		<defense>20</defense>
+		<speed>20</speed>
+		<special attack>45</special attack>
+		<special defense>25</special defense>
+	</pokemon>
+</pokemons>
